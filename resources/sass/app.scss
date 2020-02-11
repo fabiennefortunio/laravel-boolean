@@ -8,12 +8,17 @@
 
 }
 
-.menu {
+.menu-nav{
+    background-color: white;
+}
+
+
+.title-home{
     text-transform: uppercase;
 }
 
 #logo-menu {
-    height: 50px;
+    height: 60px;
 }
 
 
@@ -24,10 +29,30 @@
 
 .jumbotron, .jumbotron-fluid {
     background-color: white;
+    margin-top: 100px;
+}
+
+.nav a {
+    text-transform: uppercase;
+    color:#1b3c59;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-size: 14px;
+
+}
+
+.click-link {
+    max-height: 40px;
+    background: #61ce4e;
+    margin: 0 0 0 40px;
+    padding: 0 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
 }
 
 .lozad {
-    margin-left: 410px;
+    max-width: 100%;
+    height: auto;
 }
 
 .boolean-data {
