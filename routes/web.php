@@ -12,15 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('home', [
-        'name' => 'Nene',
-        ]);
-
-    });
+    return view('home');
+    })->name('homepage');
 
 
+Route::get('/faq', function () {
+     return view('faq');
+    })->name('faq-page');
 
 
-// Route::get(‘/’, function () {
-//     return 'La mia Homepage';
-//     });
+ Route::get('/privacy-policy', function () {
+     return view('privacy-policy');
+     })->name('policy-page');
+
+

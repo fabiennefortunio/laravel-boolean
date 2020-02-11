@@ -7,9 +7,11 @@
     <title>Laravel first view</title>
 </head>
 <body>
-    <h1>Ciao, {{ $name }} </h1>
+    @section('content')
+    <h1>HOMEPAGE </h1>
+    @endsection
 
-
+    @extends('layouts.main')
 
 
 </body>

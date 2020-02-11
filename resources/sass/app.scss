@@ -1,1 +1,5 @@
-//
+@import 'node_modules/bootstrap/scss/bootstrap';
+$brand_primary: #66cc33;
+h1 {
+color: $brand_primary;
+}
