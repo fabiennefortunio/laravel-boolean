@@ -8,7 +8,7 @@
 </head>
 <body>
     @section('content')
-    <h1>HOMEPAGE </h1>
+
     @endsection
 
     @extends('layouts.main')
