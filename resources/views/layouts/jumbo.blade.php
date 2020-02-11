@@ -7,7 +7,8 @@
             <strong>sviluppatore web</strong>
         </h1>
         <p class="subtitle">
-            <strong> Transformiamo la tua passione in una carriera. Se non trovi lavoro, ti rimborsiamo.</strong>
+         Transformiamo la tua passione in una carriera. Se non trovi lavoro, ti rimborsiamo.
+        </p>
         <ul>
             <li>
                 6 mesi di corso online in diretta
@@ -18,7 +19,7 @@
             <li>
                 Siamo certi del tuo successo, altrimenti ti rimborsiamo.
             </li>
-      </p>
+
       </div>
       </div>
       <div class="col-6">

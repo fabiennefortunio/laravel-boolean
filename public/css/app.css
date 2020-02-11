@@ -10907,6 +10907,11 @@ a.text-dark:focus {
   color: #1b3c59;
 }
 
+.subtitle {
+  font-size: 22px;
+  line-height: 1.2;
+}
+
 .jumbotron,
 .jumbotron-fluid {
   background-color: white;
@@ -10939,8 +10944,7 @@ a.text-dark:focus {
   height: auto;
 }
 
-.boolean-data {
-  width: 100%;
+.data {
   height: 270px;
   background-color: #1d3c58;
   color: white;
