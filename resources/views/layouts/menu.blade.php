@@ -1,6 +1,6 @@
 
 <div class="container-fluid menu-nav">
-    <nav class="navbar fixed-top navbar-light bg-light">
+    <nav class="navbar fixed-top navbar-light nav-color">
         <img id="logo-menu" src="https://www.boolean.careers/images/common/logo.png" alt="Boolean Careers">
         <a class="navbar-brand" href="#"></a>
 <ul class="nav justify-content-end">
