@@ -10884,7 +10884,53 @@ a.text-dark:focus {
   }
 }
 
-.title-home {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu {
+  text-transform: uppercase;
+}
+
+#logo-menu {
+  height: 50px;
+}
+
+.title-home,
+.subtitle {
   color: #1b3c59;
+}
+
+.jumbotron,
+.jumbotron-fluid {
+  background-color: white;
+}
+
+.lozad {
+  margin-left: 410px;
+}
+
+.boolean-data {
+  width: 100%;
+  height: 270px;
+  background-color: #1d3c58;
+  color: white;
+}
+
+.press {
+  width: 100%;
+  height: 240px;
+  background-color: #e8ebf2;
+  color: #1b3c59;
+}
+
+.foot,
+.card {
+  width: 100%;
+  height: 384px;
+  background-color: #1d3c58;
+  color: white;
 }
 

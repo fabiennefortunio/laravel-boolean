@@ -11,7 +11,11 @@
     @include('layouts.menu')
     @yield('content')
     @include('layouts.jumbo')
+    @include('layouts.dt-section')
+    @include('layouts.press')
+
     @include('layouts.footer')
+
 
 
 
