@@ -22,7 +22,7 @@ Route::get('/faq', function () {
 
 
  Route::get('/privacy-policy', function () {
-     return view('privacy-policy');
+     return view('policy');
      })->name('policy-page');
 
 
